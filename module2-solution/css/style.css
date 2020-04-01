@@ -36,6 +36,13 @@
     font-weight: bold;
   }
   
+  .itemtext {
+    clear: both;
+    overflow: auto;
+    height: 150px;
+    padding:10px;
+    border:none;
+  }
   .poultry {
     background: green;
   }
